@@ -1,0 +1,23 @@
+nav {
+  background: black;
+  color: white;
+  height: 3rem;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-family: "Roboto", sans-serif;
+  margin: 0.5rem;
+}
+
+button {
+  width: 8rem;
+  height: 2rem;
+  margin: 0.5rem;
+  background: red;
+  color: white;
+}
