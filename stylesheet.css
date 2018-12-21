@@ -1,7 +1,7 @@
 nav {
   background: black;
   color: white;
-  height: 3rem;
+  height: 4rem;
   left: 0;
   position: fixed;
   top: 0;
@@ -10,7 +10,17 @@ nav {
 
 header {
   position: fixed;
-  top: 3rem;
+  left: 0;
+  top: 4rem;
+  width: 100%;
+}
+
+h1 {
+  margin: 0 auto;
+  background: black;
+  color: red;
+  font-family: "Bowlby One SC", cursive;
+  font-size: 3rem;
 }
 
 h2 {
@@ -26,12 +36,29 @@ h4 {
 
 button {
   width: 12rem;
-  height: 2rem;
-  margin: 0.5rem;
+  height: 3rem;
+  margin: 0 0.5rem 0 0.5rem;
   background: red;
   color: white;
   top: 0.5rem;
   font-size: 1.2rem;
   position: relative;
   font-weight: 500;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 1rem;
+  font-family: "Roboto", sans-serif;
+  margin: 0.5rem;
+  color: white;
+}
+
+#logo {
+  height: 4rem;
 }
