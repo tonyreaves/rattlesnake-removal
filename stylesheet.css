@@ -34,18 +34,6 @@ h4 {
   font-family: "Roboto", sans-serif;
 }
 
-button {
-  width: 12rem;
-  height: 3rem;
-  margin: 0 0.5rem 0 0.5rem;
-  background: red;
-  color: white;
-  top: 0.5rem;
-  font-size: 1.2rem;
-  position: relative;
-  font-weight: 500;
-}
-
 .flex {
   display: flex;
   justify-content: space-between;
