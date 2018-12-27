@@ -1,7 +1,7 @@
 nav {
   background: black;
   color: white;
-  height: 4rem;
+  height: 3.7rem;
   left: 0;
   position: fixed;
   top: 0;
@@ -43,8 +43,16 @@ nav a {
   height: 4rem;
 }
 
-#steve {
+.photo {
   width: 100%;
   margin: 0 auto;
   margin-top: 0.5rem;
+}
+
+#price {
+  color: red;
+}
+
+.fa-facebook-square {
+  font-size: 1.2rem;
 }
