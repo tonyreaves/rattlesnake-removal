@@ -12,7 +12,7 @@ h1 {
   color: black;
   font-family: "Bowlby One SC", cursive;
   font-size: 3rem;
-  margin: 0 auto;
+  margin-top: -1rem;
 }
 
 h2 {
@@ -55,4 +55,10 @@ nav a {
 
 .fa-facebook-square {
   font-size: 1.2rem;
+}
+
+.jumbotron {
+  margin-bottom: -2rem;
+  max-width: 800px;
+  margin: 0 auto;
 }
